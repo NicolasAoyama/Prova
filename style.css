@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    background-color: #043873;  
+}
+header{
+    height:100vh;
+    background-color: #043873;
+    background-image: url("imagens/Background.png");
+}
+#nav_logo{
+    position: relative;
+    display: inline;
+    left: 15%;
+}
+#nav_h2{
+    position: relative;
+    left: 16%;
+    display: inline;
+    color: #FFFFFF;
+}
+#nav_menu{
+    position: relative;
+    color: #FFFFFF;
+    display: inline;
+    padding: 3%;
+    left: 25%;
+}
+#nav_botao1{
+position: relative;
+display: inline-block;
+background-color: yellow;
+border-radius: 8px;
+height: 45px;
+width: 106px;
+left: 24%;
+color: #043873;
+}
+#nav_login{
+    position: relative;
+    text-align: center;
+    top: 30%;
+}
+#nav_botao2{
+position: relative;
+display: inline-block;
+background-color: #4F9CF9;
+border-radius: 8px;
+height: 45px;
+width: 159px;
+left: 27%;
+color: #FFFFFF;
+}
+#header_h1{
+    position: relative;
+    color: #FFFFFF;
+    left: 15%;
+    padding-top: 10%;
+    font-size: 54px;
+}
+#header_txt{
+    position: relative;
+    color: #FFFFFF;
+    left: 15%;
+    padding-top: 3%;
+}
+#header_botao1{
+    position: relative;
+    background-color: #4F9CF9;
+    border-radius: 8px;
+    width: 160px;
+    height: 50px;
+    left: 15%;
+    top: 5%;
+    color: #FFFFFF;
+}
+#header_login{
+    position: relative;
+    text-align: center;
+    top: 27%;
+}
+#Pagina2{
+    height:150vh;
+}
+
+#Pagina2_h1{
+    position: relative;
+    left: 60%;
+    top: 35%;
+    font-size: 6vw;
+}
+#Pagina2_txt{
+    position: relative;
+    width: 520px;
+    color: #212529;
+    text-align: left;
+    left: 60%;
+    top: 35%;
+    padding-top: 3%;
+}
+#Pagina2_botao{
+    position: relative;
+    background-color: #4F9CF9;
+    border-radius: 8px;
+    width: 160px;
+    height: 50px;
+    left: 60%;
+    top: 40%;
+    color: #FFFFFF;
+}
+#Pagina2_botaotxt{
+    position: relative;
+    text-align: center;
+    top: 17%;
+}
+#Pagina2_img{
+    position: relative;
+    left: 5%;
+    width: 48vw;
+    height: 45vw;
+    bottom: 10%;
+}
+footer{
+    height: 10vh;
+    background-color: #043873;
+}
+#footer_textos{
+    position: relative;
+    display: inline;
+    color: #FFFFFF;
+    padding: 5%;
+    top: 35%;
+}
+#footer_icones{
+    position: relative;
+    top: 38%;
+    left: 30%;
+}
